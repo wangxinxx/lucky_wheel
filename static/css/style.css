@@ -315,7 +315,7 @@ footer {
 .manager img:hover{
 	transform: scale(1.1);
 }
-@media (min-aspect-ratio: 1921/1080) {
+@media (min-aspect-ratio: 1920/1080) {
   /* 高度不足，用高度计算 */
   .container {
     width: calc(100vh*734/1080);
