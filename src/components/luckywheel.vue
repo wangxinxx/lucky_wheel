@@ -206,7 +206,7 @@
   };
 </script>
 <style scoped>
-  @import "/static/css/style.css";
+  @import "../../static/css/style.css";
 
   .lucky-wheel {
     width: 100%;
